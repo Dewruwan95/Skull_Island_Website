@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "skullisland-c5a86"
-  }
+    "prod": "skull-island-web-prod",
+    "dev": "skull-island-web-dev"
+  },
+  "targets": {}
 }
